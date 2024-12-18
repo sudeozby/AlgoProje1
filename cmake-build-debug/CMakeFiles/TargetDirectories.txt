@@ -1,0 +1,3 @@
+C:/Users/Sude/Downloads/AlgoProje1-main/cmake-build-debug/CMakeFiles/AlgoProje1_main.dir
+C:/Users/Sude/Downloads/AlgoProje1-main/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sude/Downloads/AlgoProje1-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
