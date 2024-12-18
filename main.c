@@ -19,6 +19,7 @@ int main() {
     int sicil,saat,dakika,kalan_dakika;
     char girmecikma,bosluk;
     char satir[128];
+    int en_erken_sicil,en_erken_dakika = 0,en_gec_sicil,en_gec_dakika = 0;
     while(fgets(satir,sizeof(satir),fp) != NULL) {
         sscanf(satir,"%d%d:%d%c%c",&sicil,&saat,&dakika,&bosluk,&girmecikma);
     }
